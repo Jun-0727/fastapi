@@ -1,0 +1,38 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Byte-compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Database files (if using SQLite)
+*.db
+*.sqlite3
+
+# Test coverage
+.coverage
+.pytest_cache/
+
+# Environment variables
+.env
+.env.*
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
